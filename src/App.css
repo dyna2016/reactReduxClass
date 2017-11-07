@@ -1,0 +1,11 @@
+
+.Group {
+  background-color: #E7E7E7;
+  font-size: 30px;
+  text-align: center;
+}
+
+.Group:hover {
+  background-color: #DCDCDC;
+  cursor: pointer;
+}
